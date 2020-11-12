@@ -1,0 +1,7 @@
+--- Greeting oleh program ---
+Program meminta memasukkan nama user
+Program meminta pertemuan ke berapa hari itu
+Program meminta dalam bentuk apa file tersebut (misal: pdf/doc.)
+Program meminta mata kuliah yang ingin dituliskan formatnya
+Program mencetak format file tersebut
+Program selesai
